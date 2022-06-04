@@ -12,7 +12,7 @@
 ## Installation
 
 ### Easy Way
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/culprit-k/Adv-AutoFilter-Bot-v5)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/AbhinavAbhidev/Adv-AutoFilter-Bot-v5)
 ### Hard Way
 
 ```bash
